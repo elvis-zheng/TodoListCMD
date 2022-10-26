@@ -1,6 +1,7 @@
 ## TodoList CMD
 
 Id : Sebagai tanda apresiasi tolong jangan menghapus file ini
+
 En : As a sign of appreciation please don't delete this file
 
 ## Copyright
@@ -17,7 +18,7 @@ Wirya Winson Ang_2232016
 
 Yodi Salim Putra_2232039
 
-Universitas : Universitas Internasional Batam
+Universitas Internasional Batam
 Program Studi : Teknologi Informasi / 2022
 
 # Opensource
